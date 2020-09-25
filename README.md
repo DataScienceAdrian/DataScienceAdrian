@@ -3,7 +3,7 @@
 [datascienceadrian.github.io/BlazorWebpage](https://datascienceadrian.github.io/BlazorWebpage/)
 ## I'm a Junior .NET & Sitecore Developer, Data Scientist after work and Historian.
 
-- 🔭 I’m currently working i a [SoftServe][https://www.softserveinc.com/en-us]!
+- 🔭 I’m currently working in a [SoftServe](https://www.softserveinc.com/en-us)
 - ⚡ I’m currently developing C# mathematical functions
 - ⚡ I'm planning to run Blog about .NET, Sitecore and DataScience.
 
