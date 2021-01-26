@@ -1,7 +1,6 @@
-### Good Morning, I'm Adrian - known as [DataScienceAdrian][website] 👋
+### Good Morning, I'm Adrian - known as [DataScienceAdrian][https://datascienceadrian.github.io/BlazorDataScienceAdrian/] 👋
 
-[datascienceadrian.github.io/BlazorWebpage](https://datascienceadrian.github.io/BlazorDataScienceAdrian/)
-## I'm a Junior .NET & Sitecore Developer, Data Scientist after work and Historian.
+## I'm a Junior .NET & Sitecore Developer, Data Scientist and Historian after work hours.
 
 - 🔭 I’m currently working in a [SoftServe](https://www.softserveinc.com/en-us)
 - ⚡ I’m currently developing C# mathematical functions
@@ -36,7 +35,7 @@
 <br />
 
 
-### 📕 Latest Blog Posts
+### 📕 Latest Website Changes
 
 <!-- BLOG-POST-LIST:START -->
 - [Still in Progress])
@@ -47,7 +46,8 @@
 ### ⚡ Latests Github Projects
   
 <!--START_SECTION:activity-->
-1. ❗️ LuckyNumbers -> mathematical function [Mathematical Functions](https://github.com/DataScienceAdrian/MathematicalFunctions)
+1. ❗️ Mathematical Functions -> Lucky Numbers checking function [Mathematical Functions](https://github.com/DataScienceAdrian/MathematicalFunctions)
+2. ❗️ BlazorWebpage -> Blazor Website with GithubPages  [BlazorWebpage](https://datascienceadrian.github.io/BlazorDataScienceAdrian/)
 
 <!--END_SECTION:activity-->
 
