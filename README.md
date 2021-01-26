@@ -47,7 +47,7 @@
 ### ⚡ Latests Github Projects
   
 <!--START_SECTION:activity-->
-1. ❗️ LuckyNumbers -> mathematical function [Repository Not Yet Created](https://github.com/DataScienceAdrian/DataScienceAdrian)
+1. ❗️ LuckyNumbers -> mathematical function [Mathematical Functions](https://github.com/DataScienceAdrian/MathematicalFunctions)
 
 <!--END_SECTION:activity-->
 
