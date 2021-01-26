@@ -1,6 +1,6 @@
 ### Good Morning, I'm Adrian - known as [DataScienceAdrian][website] 👋
 
-[datascienceadrian.github.io/BlazorWebpage](https://datascienceadrian.github.io/BlazorWebpage/)
+[datascienceadrian.github.io/BlazorWebpage](https://datascienceadrian.github.io/BlazorDataScienceAdrian/)
 ## I'm a Junior .NET & Sitecore Developer, Data Scientist after work and Historian.
 
 - 🔭 I’m currently working in a [SoftServe](https://www.softserveinc.com/en-us)
