@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working in a [SoftServe](https://www.softserveinc.com/en-us)
 - ⚡ I’m currently developing C# mathematical functions
-- ⚡ I'm planning to run Blog about .NET, Sitecore and DataScience.
+- ⚡ I'm planning to run Website about .NET, Sitecore and DataScience.
 
 ### Connect with me:
 
