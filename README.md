@@ -3,7 +3,7 @@
 
 ## I'm a Junior .NET & Sitecore Developer, Data Scientist and Historian after work hours.
 - 🔭 I’m currently working in a [SoftServe](https://www.softserveinc.com/en-us) as Power Platform Developer
-- ⚡ I’m currently developing my Blazor website
+- ⚡ I’m currently developing my Blazor website [BlazorDataSccience](https://datascienceadrian.github.io/BlazorDataScienceAdrian/)
 
 ### Connect with me:
 
@@ -14,21 +14,22 @@
 
 ### Languages:
 
-<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png" />
-<img align="left" alt="Sitecore" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/sitecore-2-569212.png" />
-<img align="left" alt="Python" width="26px" src="https://www.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
-<img align="left" alt="R" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" />
+C#
+Sitecore
+Python
+R
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="SQL" width="26px" src="https://icon2.cleanpng.com/20180802/fh/kisspng-clip-art-microsoft-azure-sql-database-microsoft-sq-skills-5b63119fad8f06.3803801615332192317109.jpg" />
+HTML5
+CSS3
+SQL
 
 <br />
 <br />
 
-### Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Visual Studio" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2018/11/vsplogo.png" />
+### Tools Technologies and Platforms:
+Visual Studio Code
+Visual Studio
+Power Platform
 
 <br />
 <br />
