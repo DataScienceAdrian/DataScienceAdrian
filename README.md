@@ -14,14 +14,16 @@
 
 ### Languages:
 
-C#
-Sitecore
-Python
+C#<br />
+Sitecore<br />
+Python<br />
 R
+<br />
+<br />
 
-HTML5
-CSS3
-SQL
+HTML5<br />
+CSS3<br />
+SQL<br />
 
 <br />
 <br />
