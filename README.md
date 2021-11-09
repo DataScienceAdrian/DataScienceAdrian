@@ -19,30 +19,23 @@ Sitecore<br />
 Python<br />
 R
 <br />
-<br />
 
 HTML5<br />
 CSS3<br />
 SQL<br />
-
-<br />
 <br />
 
 ### Tools and Platforms:
 Visual Studio Code <br />
 Visual Studio <br />
 Power Platform<br />
-
 <br />
-<br />
-
 
 ### 📕 Latest Website Changes
 
 <!-- BLOG-POST-LIST:START -->
 - [Still in Progress])
 <!-- BLOG-POST-LIST:END -->
-
 
 
 ### ⚡ Latests Github Projects
