@@ -34,7 +34,8 @@ Power Platform<br />
 ### 📕 Latest Website Changes
 
 <!-- BLOG-POST-LIST:START -->
-- [Still in Progress])
+❗️ Added 5 cities for Weather Scrapping, using AccuWeather website
+❗️ Added basic BMI calculator
 <!-- BLOG-POST-LIST:END -->
 
 
