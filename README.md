@@ -12,7 +12,7 @@
 
 <br />
 
-### Languages:
+### Languages and Technologies:
 
 C#<br />
 Sitecore<br />
@@ -28,10 +28,10 @@ SQL<br />
 <br />
 <br />
 
-### Tools Technologies and Platforms:
-Visual Studio Code
-Visual Studio
-Power Platform
+### Tools and Platforms:
+Visual Studio Code <br />
+Visual Studio <br />
+Power Platform<br />
 
 <br />
 <br />
