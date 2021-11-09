@@ -1,7 +1,8 @@
-### Good Morning, I'm Adrian - known as DataScienceAdrian 👋
-[BlazorDataScienceAdrian](https://datascienceadrian.github.io/BlazorDataScienceAdrian/)
+# Good Morning, My name is Adrian 👋
+My Current Presentation/Sandbox webpage: [BlazorDataScienceAdrian](https://datascienceadrian.github.io/BlazorDataScienceAdrian/)
 
-## I'm a Junior .NET & Sitecore Developer, Data Scientist and Historian after work hours.
+## I'm a Junior Pro .NET & Power Platfrom Developer.
+### After working ours I am learning and reading about the Data Science
 - 🔭 I’m currently working in a [SoftServe](https://www.softserveinc.com/en-us) as Power Platform Developer
 - ⚡ I’m currently developing my Blazor website [BlazorDataSccience](https://datascienceadrian.github.io/BlazorDataScienceAdrian/)
 
@@ -34,7 +35,7 @@ Power Platform<br />
 ### 📕 Latest Website Changes
 
 <!-- BLOG-POST-LIST:START -->
-❗️ Added 5 cities for Weather Scrapping, using AccuWeather website
+❗️ Added 5 cities for Weather Scrapping, using AccuWeather website <br />
 ❗️ Added basic BMI calculator
 <!-- BLOG-POST-LIST:END -->
 
