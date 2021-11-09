@@ -2,9 +2,8 @@
 [BlazorDataScienceAdrian](https://datascienceadrian.github.io/BlazorDataScienceAdrian/)
 
 ## I'm a Junior .NET & Sitecore Developer, Data Scientist and Historian after work hours.
-- 🔭 I’m currently working in a [SoftServe](https://www.softserveinc.com/en-us)
-- ⚡ I’m currently developing C# mathematical functions
-- ⚡ I'm planning to run Website about .NET, Sitecore and DataScience.
+- 🔭 I’m currently working in a [SoftServe](https://www.softserveinc.com/en-us) as Power Platform Developer
+- ⚡ I’m currently developing my Blazor website
 
 ### Connect with me:
 
