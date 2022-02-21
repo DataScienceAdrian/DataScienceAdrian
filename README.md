@@ -8,7 +8,6 @@ My Current Presentation/Sandbox webpage: [BlazorDataScienceAdrian](https://datas
 
 ### Connect with me:
 
-[<img align="left" alt="DataScienceAdrian" width="22px" src="https://www.oqtane.org/Portals/_default/Skins/Oqtane/Images/content/Blazor.png" />][website]
 [<img align="left" alt="DataScienceAdrian | LinkedIn" width="22px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG16.png" />][linkedin]
 
 <br />
