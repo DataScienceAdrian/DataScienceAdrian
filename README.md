@@ -1,5 +1,5 @@
 # Good Morning, My name is Adrian 👋
-My Current Presentation/Sandbox webpage: [BlazorDataScienceAdrian](https://datascienceadrian.github.io/BlazorDataScienceAdrian/)
+My Current Presentation/Sandbox webpage: [NOT PUBLISHED RIGHT NOW]
 
 ## I'm a Junior Pro .NET & Power Platfrom Developer.
 ### After working ours I am learning and reading about the Data Science
