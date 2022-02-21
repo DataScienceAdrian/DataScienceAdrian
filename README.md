@@ -43,10 +43,9 @@ Power Platform<br />
   
 <!--START_SECTION:activity-->
 1. ❗️ Mathematical Functions -> Lucky Numbers checking function [Mathematical Functions](https://github.com/DataScienceAdrian/MathematicalFunctions)
-2. ❗️ BlazorWebpage -> Blazor Website with GithubPages  [BlazorWebpage](https://datascienceadrian.github.io/BlazorDataScienceAdrian/)
+2. ❗️ BlazorWebpage -> Blazor Website with GithubPages
 
 <!--END_SECTION:activity-->
 
-[website]: https://datascienceadrian.github.io/BlazorWebpage/
 [linkedin]: https://www.linkedin.com/in/adrian-marcinczyk-17b12518a/
 
