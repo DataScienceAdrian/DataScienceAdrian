@@ -3,7 +3,7 @@ My Current Presentation/Sandbox webpage: [NOT PUBLISHED RIGHT NOW]
 
 ## I'm a Junior Pro .NET & Power Platfrom Developer.
 ### After working ours I am learning and reading about the Data Science
-- 🔭 I’m currently working in a [SoftServe](https://www.softserveinc.com/en-us) as Power Platform Developer
+- 🔭 I’m currently working in a [Objectivity](https://www.objectivity.co.uk/) as Intermediate Software Developer
 - ⚡ I’m currently developing my Blazor website with ACCU Weather API to get weather for chosen location
 
 ### Connect with me:
