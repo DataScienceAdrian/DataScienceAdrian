@@ -1,9 +1,9 @@
 # Good Morning, My name is Adrian 👋
 My Current Presentation/Sandbox webpage: [NOT PUBLISHED RIGHT NOW]
 
-## I'm a Junior Pro .NET & Power Platfrom Developer.
+## I'm an Intermediate Software Developer.
 ### After working ours I am learning and reading about the Data Science
-- 🔭 I’m currently working in a [Objectivity](https://www.objectivity.co.uk/) as Intermediate Software Developer
+- 🔭 I’m currently working in a [Objectivity](https://www.objectivity.co.uk/) as Intermediate Power Platform Developer
 - ⚡ I’m currently developing my Blazor website with ACCU Weather API to get weather for chosen location
 
 ### Connect with me:
