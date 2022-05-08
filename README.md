@@ -31,11 +31,10 @@ Visual Studio <br />
 Power Platform<br />
 <br />
 
-### 📕 Latest Website Changes
+### 📕 Future projects to Develop
 
 <!-- BLOG-POST-LIST:START -->
-❗️ Added 5 cities for Weather Scrapping, using AccuWeather website <br />
-❗️ Added basic BMI calculator
+❗️ React JS BMI Calculator -> Deployed into GithubPages <br />
 <!-- BLOG-POST-LIST:END -->
 
 
@@ -43,7 +42,7 @@ Power Platform<br />
   
 <!--START_SECTION:activity-->
 1. ❗️ Mathematical Functions -> Lucky Numbers checking function [Mathematical Functions](https://github.com/DataScienceAdrian/MathematicalFunctions)
-2. ❗️ BlazorWebpage -> Blazor Website with GithubPages
+2. ❗️ Accu Weather API Scrapper -> Blazor Website with GithubPages
 
 <!--END_SECTION:activity-->
 
