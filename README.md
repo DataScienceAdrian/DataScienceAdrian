@@ -1,5 +1,4 @@
 # Good Morning, My name is Adrian 👋
-My Current Presentation/Sandbox webpage: [NOT PUBLISHED RIGHT NOW]
 
 ## I'm a Senior Software Developer.
 ### After working ours I am learning and reading about the Data Science
