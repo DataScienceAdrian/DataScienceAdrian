@@ -3,7 +3,7 @@ My Current Presentation/Sandbox webpage: [NOT PUBLISHED RIGHT NOW]
 
 ## I'm a Senior Software Developer.
 ### After working ours I am learning and reading about the Data Science
-- 🔭 I’m currently working in a [Accenture](https://www.accenture.com/pl-pl) as Senior Dynamics 365 & .NET Developer
+- 🔭 I’m currently working in The [Accenture](https://www.accenture.com/pl-pl) as Senior Dynamics 365 & .NET Developer
 - ⚡ I’m currently developing my Blazor website with ACCU Weather API to get weather for chosen location
 
 ### Connect with me:
